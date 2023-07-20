@@ -28,7 +28,7 @@ Simple execution example screen.
 <img width="524" alt="image" src="https://github.com/geonunggoodboy/1d-3d-ui/assets/104976555/dc11be6c-8c68-441b-9065-a0e36daeb34d">
 
 ### When push the 'Show History' button with 0 value
-<img width="529" alt="image" src="https://github.com/geonunggoodboy/1d-3d-ui/assets/104976555/56fa88d5-5177-42b4-89ea-6b2f51806475">
+<img width="518" alt="image" src="https://github.com/geonunggoodboy/1d-3d-ui/assets/104976555/2127bc40-3019-4e51-b1f6-c1f2c089a059">
 
 ### When push the 'Show History' button with specific tag id value
 <img width="534" alt="image" src="https://github.com/geonunggoodboy/1d-3d-ui/assets/104976555/e7c3d358-5826-48e9-988e-b689e58aa220">
